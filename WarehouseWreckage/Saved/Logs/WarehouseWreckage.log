@@ -10373,3 +10373,9 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.22-22.26.55:185][376]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.12.22-22.26.55:187][376]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.12.22-22.26.55:187][376]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.22-22.36.05:351][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.12.22-22.36.05:353][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../../UE5Projects/WarehouseWreckage/Saved/Autosaves/Game/Main_Auto9.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.12.22-22.36.05:379][603]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto9
+[2023.12.22-22.36.05:379][603]LogSavePackage: Moving '../../../../../../UE5Projects/WarehouseWreckage/Saved/Main_Auto92F54647448A622C7CA41E88E22C1B13D.tmp' to '../../../../../../UE5Projects/WarehouseWreckage/Saved/Autosaves/Game/Main_Auto9.umap'
+[2023.12.22-22.36.05:386][603]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.055
+[2023.12.22-22.36.05:386][603]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.055
