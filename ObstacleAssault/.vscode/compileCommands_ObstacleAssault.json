@@ -1,0 +1,42 @@
+[
+	{
+		"file": "D:\\UE5Projects\\ObstacleAssault\\Source\\ObstacleAssault\\MovingPlatform.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UE5Projects\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.255.rsp"
+		],
+		"directory": "D:\\Programs\\UE5\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE5Projects\\ObstacleAssault\\Source\\ObstacleAssault\\MovingPlatform.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UE5Projects\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.255.rsp"
+		],
+		"directory": "D:\\Programs\\UE5\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE5Projects\\ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UE5Projects\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.255.rsp"
+		],
+		"directory": "D:\\Programs\\UE5\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE5Projects\\ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UE5Projects\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.255.rsp"
+		],
+		"directory": "D:\\Programs\\UE5\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE5Projects\\ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UE5Projects\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault\\ObstacleAssault.255.rsp"
+		],
+		"directory": "D:\\Programs\\UE5\\UE_5.2\\Engine\\Source"
+	}
+]

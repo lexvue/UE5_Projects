@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UE5Projects/ObstacleAssault/Content/Main.umap",
+				"D:/UE5Projects/ObstacleAssault/Content/ParagonShinbi/Characters/Heroes/Shinbi/ShinbiPlayerCharacter.uasset",
+				"D:/UE5Projects/ObstacleAssault/Content/ParagonShinbi/Characters/Heroes/Shinbi/Meshes/Shinbi.uasset",
+				"D:/UE5Projects/ObstacleAssault/Content/BP_MovingPlatform.uasset",
+				"D:/UE5Projects/ObstacleAssault/Content/LearningKit_Games/Assets/Environment/Islands/SM_FloatingIsland_S.uasset",
+				"D:/UE5Projects/ObstacleAssault/Content/BP_PushingCube.uasset",
+				"D:/UE5Projects/ObstacleAssault/Content/BP_ShinbiPlayerCharacter.uasset",
+				"D:/UE5Projects/ObstacleAssault/Content/BP_MovingPlatformFlat.uasset",
+				"D:/UE5Projects/ObstacleAssault/Content/BP_ObstacleAssaultGameMode.uasset",
+				"D:/UE5Projects/ObstacleAssault/Content/BP_RotatingPlatform.uasset",
+				"D:/UE5Projects/ObstacleAssault/Content/BP_Rotating_Platform.uasset",
+				"D:/UE5Projects/ObstacleAssault/Content/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
